@@ -1,0 +1,6 @@
+C:\Users\hasthiaj\Desktop\Practise\ChallengeGame\ChallengeGame\bin\ChallengeGame.dll.config
+C:\Users\hasthiaj\Desktop\Practise\ChallengeGame\ChallengeGame\bin\ChallengeGame.dll
+C:\Users\hasthiaj\Desktop\Practise\ChallengeGame\ChallengeGame\bin\ChallengeGame.pdb
+C:\Users\hasthiaj\Desktop\Practise\ChallengeGame\ChallengeGame\obj\Debug\ChallengeGame.csprojResolveAssemblyReference.cache
+C:\Users\hasthiaj\Desktop\Practise\ChallengeGame\ChallengeGame\obj\Debug\ChallengeGame.dll
+C:\Users\hasthiaj\Desktop\Practise\ChallengeGame\ChallengeGame\obj\Debug\ChallengeGame.pdb
