@@ -2,3 +2,36 @@ http://projects.arctree.ca/git/arctree/payzee.git
 
 ajithhasthi
 ajith
+
+
+Database
+--------
+
+Development
+
+arctree.ca
+payzi
+cov3rMYt@b
+
+Production
+
+ipayzi.com
+payzi_user
+c0v3rMYt@b
+
+
+FTP:
+---------
+
+Development
+
+ftp://ftp.arctree.ca
+Username:  payzi
+Password:  cov3rMYt@b
+
+Production
+
+ftp://ftp.ipayzi.com
+Username:  ipayzi
+Pasword:  c0v3rMYt@b!
+Folder:  /httpdocs/payzi
