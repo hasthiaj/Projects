@@ -1,4 +1,4 @@
-http://projects.decconsulting.com/git/decconsulting/payzee.git
+http://projects.arctree.ca/git/arctree/payzee.git
 
 ajithhasthi
 ajith
