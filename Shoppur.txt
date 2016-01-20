@@ -24,5 +24,7 @@ Shoppur007!
 
 Image CDN
 ------------
+https://res.cloudinary.com/
+
 Shoppur@outlook.com
 Shoppur007!
