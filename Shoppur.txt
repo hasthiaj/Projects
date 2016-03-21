@@ -15,7 +15,7 @@ Shoppur007!
 
 FTP
 -------
-ftp://ftp.shoppur.co
+ftp://ftp.zaydu.com
 
 shoppur
 Shoppur007!
