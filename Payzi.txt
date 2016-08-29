@@ -35,3 +35,9 @@ ftp://ftp.ipayzi.com
 Username:  ipayzi
 Pasword:  c0v3rMYt@b!
 Folder:  /httpdocs/payzi
+
+
+Cloudinary
+-----------
+payziapp@gmail.com
+payzi007

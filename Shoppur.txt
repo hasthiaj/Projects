@@ -21,7 +21,6 @@ shoppur
 Shoppur007!
 
 
-
 Image CDN
 ------------
 https://res.cloudinary.com/
